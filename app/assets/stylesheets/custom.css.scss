@@ -8,25 +8,25 @@ $navbar-default-bg: black;
     text-transform: uppercase;
     letter-spacing: -1px;
     font-weight: bold;
-    
+
 }
 
 #log:hover {
     color: #fff;
     text-decoration: none;
-    
+
 }
 
 .center {
     text-align: center;
-    
+
 }
 
 .jumbotron {
     background-image: asset-url('ror-development-services_copy.jpg');
     background-size: cover;
-    height: 840px;
-    
+    height: 530px;
+
 }
 
 .jumbotron h1 {
@@ -36,34 +36,49 @@ $navbar-default-bg: black;
     letter-spacing: -1px;
     font-weight: bold;
 }
+
 .btn-xlarge {
     font-size: black;
     background: black;
-    
+
 }
 
-.footer {
-    margin-top: 100px;
-    padding-top: 8px;
-    border-top: 2px solid #eaeaea;
-    color: #774;
+footer {
+
+    margin-top: 45px;
+
+    padding-top: 5px;
+
+    border-top: 1px solid #eaeaea;
+
+    color: #777;
+
 }
 
-.footer a:hover {
-    color: #62dfdf2;
+footer a:hover {
+
+    color: #222;
+
 }
 
-.footer small {
+footer small {
+
     float: left;
+
 }
-.footer ul {
+
+footer ul {
+
     float: right;
-    list-style: nome;
-    
-    
+
+    list-style: none;
+
 }
 
-.footer ul li {
+footer ul li {
+
     float: left;
-    margin-left: 50px;
+
+    margin-left: 15px;
+
 }
