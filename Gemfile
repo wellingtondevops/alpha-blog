@@ -6,6 +6,7 @@ gem 'rails', '4.2.8'
 # Use sqlite3 as the database for Active Record
 gem 'bootstrap-sass', '~> 3.3.5'
 gem 'sass-rails', '~> 5.0'
+gem 'bcrypt', '~> 3.1.7'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .coffee assets and views
